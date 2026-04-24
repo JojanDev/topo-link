@@ -97,7 +97,6 @@ import {
   Ruler,
   Map,
   Construction,
-  CheckCircle,
   ChevronRight,
 } from "lucide-react";
 
